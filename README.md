@@ -12,5 +12,7 @@ https://github.com/conal/concat
 
 https://github.com/conal/talk-2015-haskell-to-hardware
 
+https://github.com/clash-lang/clash-compiler
+
 ### Python
 https://github.com/myhdl/myhdl
