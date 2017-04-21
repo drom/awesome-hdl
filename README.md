@@ -2,6 +2,7 @@
 
 ### Mainstream
  - Verilog
+   * [IEEE Std 1364-2001](https://inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf)
  - VHDL
  - SystemC
 
