@@ -6,6 +6,7 @@ https://github.com/tcr/hoodlum
 
 ### Scala
 https://github.com/ucb-bar/chisel
+https://github.com/SpinalHDL/SpinalHDL
 
 ### Haskel
 https://github.com/conal/concat
