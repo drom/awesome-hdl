@@ -6,8 +6,10 @@
  * [SystemVerilog 3.1a](http://www.ece.uah.edu/~gaede/cpe526/SystemVerilog_3.1a.pdf)
    
 ### VHDL
+ * IEEE 1076-1993
 
 ### SystemC
+ * [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
 
 ### Rust
 https://github.com/tcr/hoodlum
