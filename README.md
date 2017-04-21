@@ -8,7 +8,7 @@
 Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
    
 ### VHDL
- * IEEE 1076-1993
+ * IEEE Std 1076-1993
 
 ### SystemC
  * [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
