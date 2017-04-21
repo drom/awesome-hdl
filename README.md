@@ -10,7 +10,7 @@
 Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
 
 ### Tools
- * [Verilator](https://www.veripool.org/wiki/verilator)
+ * [Verilator](https://www.veripool.org/wiki/verilator) Verilog --> C++
  * [Icarus Verilog](http://iverilog.icarus.com/)
    
 ## VHDL
