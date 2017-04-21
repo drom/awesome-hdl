@@ -11,6 +11,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 
 ### Tools
  * [Verilator](https://www.veripool.org/wiki/verilator)
+ * [Icarus Verilog](http://iverilog.icarus.com/)
    
 ## VHDL
  * IEEE Std 1076-1993
