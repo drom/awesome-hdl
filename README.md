@@ -10,8 +10,9 @@
 Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
 
 ### Tools
- * [Verilator](https://www.veripool.org/wiki/verilator) Verilog --> C++
- * [Icarus Verilog](http://iverilog.icarus.com/)
+ * [Verilator](https://www.veripool.org/wiki/verilator) Verilog --> C++ -> simulator
+ * [Icarus Verilog](http://iverilog.icarus.com/) -> simulator
+ * [Yosys](http://www.clifford.at/yosys/) -> Synthesis
 
 ## VHDL
  * IEEE Std 1076-1993
@@ -19,10 +20,13 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 ## SystemC
  * [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
 
+## Extentions
+ * http://tl-x.org/
+
 ## Transpilers
 
 ### Rust
- * [hoodlum](https://github.com/tcr/hoodlum)
+ * [hoodlum](https://github.com/tcr/hoodlum) Alpha
 
 ### Scala
  * [chisel](https://github.com/ucb-bar/chisel)
@@ -37,13 +41,10 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
  * [myHDL](https://github.com/myhdl/myhdl)
 
 ### Java
- * [jhdl](http://www.jhdl.org/)
+ * [jhdl](http://www.jhdl.org/) ..2006
  
 ### Ruby
- * [RHDL](https://github.com/philtomson/RHDL)
-
-## Extentions
- * http://tl-x.org/
+ * [RHDL](https://github.com/philtomson/RHDL) ..2013
 
 ## License
 
