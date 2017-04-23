@@ -36,6 +36,12 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 ### Python
  * [myHDL](https://github.com/myhdl/myhdl)
 
+### Java
+ * [jhdl](http://www.jhdl.org/)
+ 
+## Ruby
+ * [RHDL](https://github.com/philtomson/RHDL)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
