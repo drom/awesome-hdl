@@ -47,6 +47,9 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 ### Ruby
  * [RHDL](https://github.com/philtomson/RHDL) ..2013
 
+### C++
+ * [autopiper](https://github.com/google/autopiper)
+
 ## HLS
  * [Shang](https://github.com/etherzhhb/Shang)
 
