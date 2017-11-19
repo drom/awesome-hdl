@@ -42,6 +42,9 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
  * [Pyverilog](https://github.com/PyHDI/Pyverilog)
  * [pymtl](https://github.com/cornell-brg/pymtl)
 
+### Julia
+ * [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl)
+
 ### Java
  * [jhdl](http://www.jhdl.org/) ..2006
  
