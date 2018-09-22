@@ -11,13 +11,19 @@ A curated list of amazingly awesome hardware description language projects.
    - [Synthesizing SystemVerilog
 Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
 
-### Tools
+### Implementations
  * [Verilator](https://www.veripool.org/wiki/verilator) Verilog --> C++ -> simulator
  * [Icarus Verilog](http://iverilog.icarus.com/) -> simulator
  * [Yosys](http://www.clifford.at/yosys/) -> Synthesis
 
 ## VHDL
+
+### Standards
+
  * IEEE Std 1076-1993
+
+### Implementations
+
  * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator
 
 ## SystemC
