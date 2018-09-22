@@ -38,7 +38,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
  * [hoodlum](https://github.com/tcr/hoodlum) Alpha
 
 ### Scala
- * [chisel](https://github.com/ucb-bar/chisel)
+ * [chisel](https://github.com/freechipsproject/chisel3) - hardware construction language to support advanced hardware design and circuit generation
  * [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)
 
 ### Haskel
