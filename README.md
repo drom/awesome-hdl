@@ -12,9 +12,9 @@ A curated list of amazingly awesome hardware description language projects.
 Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
 
 ### Implementations
- * [Verilator](https://www.veripool.org/wiki/verilator) Verilog --> C++ -> simulator
- * [Icarus Verilog](http://iverilog.icarus.com/) -> simulator
- * [Yosys](http://www.clifford.at/yosys/) -> Synthesis
+ * [Verilator](https://www.veripool.org/wiki/verilator) Verilog to C++ transpiler
+ * [Icarus Verilog](http://iverilog.icarus.com/) - simulator
+ * [Yosys](http://www.clifford.at/yosys/) - RTL synthesis
 
 ## VHDL
 
@@ -35,7 +35,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 ## Transpilers
 
 ### Rust
- * [hoodlum](https://github.com/tcr/hoodlum) Alpha
+ * [hoodlum](https://github.com/tcr/hoodlum) - nice-looking hardware description language that compiles to Verilog
 
 ### Scala
  * [chisel](https://github.com/freechipsproject/chisel3) - hardware construction language to support advanced hardware design and circuit generation
@@ -44,15 +44,16 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 ### Haskel
  * [concat](https://github.com/conal/concat)
  * https://github.com/conal/talk-2015-haskell-to-hardware
- * [clash compile](https://github.com/clash-lang/clash-compiler)
+ * [CλaSH](https://github.com/clash-lang/clash-compiler) - A functional hardware description language
 
 ### Python
- * [myHDL](https://github.com/myhdl/myhdl)
+ * [myHDL](https://github.com/myhdl/myhdl) - hardware description and verification language
  * [Pyverilog](https://github.com/PyHDI/Pyverilog) - Design Processing Toolkit for Verilog HDL
  * [pymtl](https://github.com/cornell-brg/pymtl)
 
 ### Julia
- * [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl)
+ * [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - 
+a Verilog-generation DSL for Julia.
 
 ### Java
  * [jhdl](http://www.jhdl.org/) ..2006
