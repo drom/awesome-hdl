@@ -49,7 +49,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 ### Python
  * [myHDL](https://github.com/myhdl/myhdl) - hardware description and verification language
  * [Pyverilog](https://github.com/PyHDI/Pyverilog) - Design Processing Toolkit for Verilog HDL
- * [pymtl](https://github.com/cornell-brg/pymtl)
+ * [pymtl](https://github.com/cornell-brg/pymtl) - framework for multi-level hardware modeling
 
 ### Julia
  * [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - 
