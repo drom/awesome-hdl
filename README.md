@@ -61,6 +61,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
  * [RHDL](https://github.com/philtomson/RHDL) ..2013
 
 ### JavaScript
+ * [reqack](https://github.com/drom/reqack) -  elastic circuit toolchain
  * [hdl-js](https://github.com/DmitrySoshnikov/hdl-js) - Hardware description language (HDL) parser, and Hardware simulator.
  * [shdl](https://github.com/jcbuisson/shdl) - Simple Hardware Description Language
 
