@@ -57,6 +57,7 @@ a Verilog-generation DSL for Julia.
 
 ### Java
  * [jhdl](http://www.jhdl.org/) ..2006
+ * [PSHDL](http://pshdl.org/)
  
 ### Ruby
  * [RHDL](https://github.com/philtomson/RHDL) ..2013
