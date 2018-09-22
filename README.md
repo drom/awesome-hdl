@@ -18,6 +18,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 
 ## VHDL
  * IEEE Std 1076-1993
+ * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator
 
 ## SystemC
  * [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
@@ -41,7 +42,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 
 ### Python
  * [myHDL](https://github.com/myhdl/myhdl)
- * [Pyverilog](https://github.com/PyHDI/Pyverilog)
+ * [Pyverilog](https://github.com/PyHDI/Pyverilog) - Design Processing Toolkit for Verilog HDL
  * [pymtl](https://github.com/cornell-brg/pymtl)
 
 ### Julia
