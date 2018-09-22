@@ -61,7 +61,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
  * [RHDL](https://github.com/philtomson/RHDL) ..2013
 
 ### JavaScript
- * [hdl-js](https://github.com/DmitrySoshnikov/hdl-js)
+ * [hdl-js](https://github.com/DmitrySoshnikov/hdl-js) - Hardware description language (HDL) parser, and Hardware simulator.
 
 ### C++
  * [autopiper](https://github.com/google/autopiper)
