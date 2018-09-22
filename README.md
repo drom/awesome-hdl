@@ -48,6 +48,7 @@ Busting the Myth that SystemVerilog is only for Verification](http://sutherland-
 
 ### Python
  * [myHDL](https://github.com/myhdl/myhdl) - hardware description and verification language
+ * [PyRTL](https://github.com/UCSBarchlab/PyRTL) - A collection of classes providing simple hardware specification, simulation, tracing, and testing suitable for teaching and research. 
  * [Pyverilog](https://github.com/PyHDI/Pyverilog) - Design Processing Toolkit for Verilog HDL
  * [pymtl](https://github.com/cornell-brg/pymtl) - framework for multi-level hardware modeling
 
