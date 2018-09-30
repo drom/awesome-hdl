@@ -77,12 +77,6 @@ A curated list of amazingly awesome hardware description language projects.
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 
 
-## Simulation generators and other simulation tools
-
-* [libhwio](https://github.com/Nic30/libhwio) - Abstraction layer for hardware access, which can connect to HW or [HWT](https://github.com/Nic30/hwt) sim
-* [verilator](https://www.veripool.org/wiki/verilator) - Verilog -> C/C++ sim
-
-
 ## Synthesis tools
 
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
