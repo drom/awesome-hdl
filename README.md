@@ -7,7 +7,6 @@ A curated list of amazingly awesome hardware description language projects.
 ## HDL doc
 
 * Verilog [IEEE Std 1364-2001](https://inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf), [Quick Ref Guide](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf), [SystemVerilog 3.1a](http://www.ece.uah.edu/~gaede/cpe526/SystemVerilog_3.1a.pdf), [Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
-
 * VHDL standards [IEEE Std 1076-2000](http://edg.uchicago.edu/~tang/VHDLref.pdf)
 * SystemC standards [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
 
@@ -28,7 +27,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [autopiper](https://github.com/google/autopiper)
 
 * Haskel
-   - [concat](https://github.com/conal/concat)
+   - [concat](https://github.com/conal/concat) Haskell to hardware, 2016+
    - https://github.com/conal/talk-2015-haskell-to-hardware
    - [CλaSH](https://github.com/clash-lang/clash-compiler) - A functional hardware description language
 
@@ -42,25 +41,24 @@ A curated list of amazingly awesome hardware description language projects.
    - [shdl](https://github.com/jcbuisson/shdl) - Simple Hardware Description Language
 
 * Julia
-   - [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - a Verilog-generation DSL for Julia.
+   - [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - a Verilog-generation DSL for Julia., 2017
 
 * Python
-   - [HWT](https://github.com/Nic30/hwt)
-   - [MyHDL](https://github.com/myhdl/myhdl) - hardware description and verification language
-   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - A collection of classes providing simple hardware specification, simulation, tracing, and testing suitable for teaching and research. 
-   - [Pyverilog](https://github.com/PyHDI/Pyverilog) - Design Processing Toolkit for Verilog HDL
-   - [PyMTL](https://github.com/cornell-brg/pymtl) - framework for multi-level hardware modeling
-
-* Ruby
-   - [RHDL](https://github.com/philtomson/RHDL) ..2013
+  - [HWT](https://github.com/Nic30/hwt) Meta HDL, verification env. IP-core generator, analysis tools, HDL glue
+  - [garnet](https://github.com/StanfordAHA/garnet) Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
+  - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
+  - [migen](https://github.com/m-labs/migen) - Meta HDL, 2013+
+  - [MyHDL](https://github.com/myhdl/myhdl) - simple process based hardware description and verification language, 2011+
+  - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research. 
+  - [PyMTL](https://github.com/cornell-brg/pymtl) - Meta HDL, 2014+
+  - [veriloggen](https://github.com/PyHDI/veriloggen) - 2015-?, Python, Verilog centric meta HDL with HLS like features
 
 * Rust
-   - [hoodlum](https://github.com/tcr/hoodlum) - nice-looking hardware description language that compiles to Verilog
+   - [hoodlum](https://github.com/tcr/hoodlum) - Meta HDL, 2016+
 
 * Scala
-   - [chisel](https://github.com/freechipsproject/chisel3) - hardware construction language to support advanced hardware design and circuit generation
-   - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)
-
+   - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
+   - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
 ## HLS
 
@@ -78,6 +76,36 @@ A curated list of amazingly awesome hardware description language projects.
 * [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment alghorithms
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 
+
+## Simulation generators and other simulation tools
+
+* [libhwio](https://github.com/Nic30/libhwio) - Abstraction layer for hardware access, which can connect to HW or [HWT](https://github.com/Nic30/hwt) sim
+* [verilator](https://www.veripool.org/wiki/verilator) - Verilog -> C/C++ sim
+
+
+## Synthesis tools
+
+* [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
+* [yosys](https://github.com/YosysHQ/yosys) - RTL synthesis framework
+
+
+## Libraries with informations about boards/chips
+
+* [loam](https://github.com/phanrahan/loam) - Buildsystem for magma
+* [litex](https://github.com/enjoy-digital/litex) - Buildsystem for migen
+
+
+## Visualization and Documentation generators
+
+* [d3-wave](https://github.com/Nic30/d3-wave) - Javascript wave graph visualizer for RTL simulations
+* [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) - Javascript hierarchycal schematic visualizer for HDLs
+* [netlistsvg](https://github.com/nturley/netlistsvg) - Javascript schematic visualizer
+* [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds shematic into html documentaion.
+
+
+## HDL parsers
+* [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser writen as C++ extension for Python
+* [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser writen in Python
 
 # Open Hardware
 
