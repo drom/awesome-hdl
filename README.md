@@ -103,6 +103,16 @@ A curated list of amazingly awesome hardware description language projects.
 
 # Open Hardware
 
+* [opencores.org](https://opencores.org/) - webpake which hosts many openhardware projects
+* [enjoy-digital repositories](https://github.com/enjoy-digital?tab=repositories) - Migen, SoC level modules
+* [ZipCPU repositories](https://github.com/ZipCPU?tab=repositories) - Verilog, mostly preipherals, DSP
+* [rhea](https://github.com/cfelton/rhea) - MyHDL, SoC level modules
+* [FPGAwars FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - Verilog, simple peripherals
+* [PoC](https://github.com/VLSI-EDA/PoC) - VHDL, utils
+* [picorv32](https://github.com/cliffordwolf/picorv32) - Verilog, A Size-Optimized RISC-V SoC
+* [openrisc](https://github.com/openrisc) - OpenRISC, FuseSoC, peripherals and cpu parts
+* [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
