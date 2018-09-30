@@ -101,6 +101,10 @@ A curated list of amazingly awesome hardware description language projects.
 * [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser writen as C++ extension for Python
 * [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser writen in Python
 
+## Other Simulation tools
+
+* [midas](https://github.com/ucb-bar/midas) FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL 
+
 # Open Hardware
 
 * [opencores.org](https://opencores.org/) - webpake which hosts many openhardware projects
