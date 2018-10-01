@@ -91,13 +91,16 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Visualization and Documentation generators
 
+* [bitfield](https://github.com/drom/bitfield) - Javascript bit field diagram renderer 
 * [d3-wave](https://github.com/Nic30/d3-wave) - Javascript wave graph visualizer for RTL simulations
 * [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) - Javascript hierarchycal schematic visualizer for HDLs
+* [wavedrom](https://github.com/drom/wavedrom) - Javascript wave graph visualizer for documentations and sim.
 * [netlistsvg](https://github.com/nturley/netlistsvg) - Javascript schematic visualizer
 * [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds shematic into html documentaion.
 
 
 ## HDL parsers
+
 * [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser writen as C++ extension for Python
 * [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser writen in Python
 
