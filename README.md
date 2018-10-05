@@ -106,7 +106,8 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Other Simulation tools
 
-* [midas](https://github.com/ucb-bar/midas) FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL 
+* [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
+* [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 
 # Open Hardware
 
@@ -119,6 +120,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [picorv32](https://github.com/cliffordwolf/picorv32) - Verilog, A Size-Optimized RISC-V SoC
 * [openrisc](https://github.com/openrisc) - OpenRISC, FuseSoC, peripherals and cpu parts
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
+* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL 
 
 ## License
 
