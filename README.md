@@ -48,9 +48,9 @@ A curated list of amazingly awesome hardware description language projects.
   - [garnet](https://github.com/StanfordAHA/garnet) Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
   - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
   - [migen](https://github.com/m-labs/migen) - Meta HDL, 2013+
-  - [MyHDL](https://github.com/myhdl/myhdl) - simple process based hardware description and verification language, 2004+
+  - [MyHDL](https://github.com/myhdl/myhdl) - Process based HDL, verification framework included, 2004+
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research. 
-  - [PyMTL](https://github.com/cornell-brg/pymtl) - Meta HDL, 2014+
+  - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
   - [veriloggen](https://github.com/PyHDI/veriloggen) - 2015-?, Python, Verilog centric meta HDL with HLS like features
 
 * Rust
@@ -91,19 +91,23 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Visualization and Documentation generators
 
+* [bitfield](https://github.com/drom/bitfield) - Javascript bit field diagram renderer 
 * [d3-wave](https://github.com/Nic30/d3-wave) - Javascript wave graph visualizer for RTL simulations
 * [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) - Javascript hierarchycal schematic visualizer for HDLs
+* [wavedrom](https://github.com/drom/wavedrom) - Javascript wave graph visualizer for documentations and sim.
 * [netlistsvg](https://github.com/nturley/netlistsvg) - Javascript schematic visualizer
 * [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds shematic into html documentaion.
 
 
 ## HDL parsers
+
 * [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser writen as C++ extension for Python
 * [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser writen in Python
 
 ## Other Simulation tools
 
-* [midas](https://github.com/ucb-bar/midas) FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL 
+* [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
+* [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 
 # Open Hardware
 
@@ -116,6 +120,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [picorv32](https://github.com/cliffordwolf/picorv32) - Verilog, A Size-Optimized RISC-V SoC
 * [openrisc](https://github.com/openrisc) - OpenRISC, FuseSoC, peripherals and cpu parts
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
+* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL 
 
 ## License
 
