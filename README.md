@@ -121,6 +121,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [openrisc](https://github.com/openrisc) - OpenRISC, FuseSoC, peripherals and cpu parts
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
 * [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL 
+* [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification/) - A list of open source tools and frameworks for hardware verification.
 
 ## License
 
