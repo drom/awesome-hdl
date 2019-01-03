@@ -102,7 +102,8 @@ A curated list of amazingly awesome hardware description language projects.
 ## HDL parsers
 
 * [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser writen as C++ extension for Python
-* [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser writen in Python
+* [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser written in Python
+* [rust_hdl](https://github.com/kraigher/rust_hdl) - VHDL parser and language server written in Rust
 
 ## Other Simulation tools
 
