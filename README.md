@@ -73,7 +73,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [hg_lvl_syn](https://github.com/funningboy/hg_lvl_syn) - 2010, ILP, Force Directed scheduler
 * [abc](https://people.eecs.berkeley.edu/~alanmi/abc/) <2008-?, A System for Sequential Synthesis and Verification 
 * [polyphony](https://github.com/ktok07b6/polyphony) - 2015-2017, simple python to hdl
-* [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment alghorithms
+* [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 
 
@@ -112,9 +112,9 @@ A curated list of amazingly awesome hardware description language projects.
 
 # Open Hardware
 
-* [opencores.org](https://opencores.org/) - webpake which hosts many openhardware projects
+* [opencores.org](https://opencores.org/) - webpage which hosts many openhardware projects
 * [enjoy-digital repositories](https://github.com/enjoy-digital?tab=repositories) - Migen, SoC level modules
-* [ZipCPU repositories](https://github.com/ZipCPU?tab=repositories) - Verilog, mostly preipherals, DSP
+* [ZipCPU repositories](https://github.com/ZipCPU?tab=repositories) - Verilog, mostly peripherals, DSP
 * [rhea](https://github.com/cfelton/rhea) - MyHDL, SoC level modules
 * [FPGAwars FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - Verilog, simple peripherals
 * [PoC](https://github.com/VLSI-EDA/PoC) - VHDL, utils
