@@ -49,7 +49,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
   - [migen](https://github.com/m-labs/migen) - Meta HDL, 2013+
   - [MyHDL](https://github.com/myhdl/myhdl) - Process based HDL, verification framework included, 2004+
-  - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research. 
+  - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
   - [veriloggen](https://github.com/PyHDI/veriloggen) - 2015-?, Python, Verilog centric meta HDL with HLS like features
 
@@ -62,8 +62,8 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## HLS
 
-* [legup](http://legup.eecg.utoronto.ca/) - 2011-2015, LLVM based c->verilog 
-* [bambu](http://panda.dei.polimi.it/?page_id=31) - 2003-?, GCC based c->verilog 
+* [legup](http://legup.eecg.utoronto.ca/) - 2011-2015, LLVM based c->verilog
+* [bambu](http://panda.dei.polimi.it/?page_id=31) - 2003-?, GCC based c->verilog
 * [augh](http://tima.imag.fr/sls/research-projects/augh/) - c->verilog, DSP support
 * https://github.com/utwente-fmt - abstract hls, verification libraries
 * [Shang](https://github.com/etherzhhb/Shang) - 2012-2014, LLVM based, c->verilog
@@ -71,9 +71,9 @@ A curated list of amazingly awesome hardware description language projects.
 * [Potholes](https://github.com/SamuelBayliss/Potholes) - 2012-2014 - polyhedral model preprocessor, Uses Vivado HLS, PET
 * [hls_recurse](https://github.com/m8pple/hls_recurse) - 2015-2016 - conversion of recursive fn. for stackless architectures
 * [hg_lvl_syn](https://github.com/funningboy/hg_lvl_syn) - 2010, ILP, Force Directed scheduler
-* [abc](https://people.eecs.berkeley.edu/~alanmi/abc/) <2008-?, A System for Sequential Synthesis and Verification 
+* [abc](https://people.eecs.berkeley.edu/~alanmi/abc/) <2008-?, A System for Sequential Synthesis and Verification
 * [polyphony](https://github.com/ktok07b6/polyphony) - 2015-2017, simple python to hdl
-* [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment alghorithms
+* [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 
 
@@ -91,7 +91,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Visualization and Documentation generators
 
-* [bitfield](https://github.com/drom/bitfield) - Javascript bit field diagram renderer 
+* [bitfield](https://github.com/drom/bitfield) - Javascript bit field diagram renderer
 * [d3-wave](https://github.com/Nic30/d3-wave) - Javascript wave graph visualizer for RTL simulations
 * [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) - Javascript hierarchycal schematic visualizer for HDLs
 * [wavedrom](https://github.com/drom/wavedrom) - Javascript wave graph visualizer for documentations and sim.
@@ -112,16 +112,16 @@ A curated list of amazingly awesome hardware description language projects.
 
 # Open Hardware
 
-* [opencores.org](https://opencores.org/) - webpake which hosts many openhardware projects
+* [opencores.org](https://opencores.org/) - webpage which hosts many openhardware projects
 * [enjoy-digital repositories](https://github.com/enjoy-digital?tab=repositories) - Migen, SoC level modules
-* [ZipCPU repositories](https://github.com/ZipCPU?tab=repositories) - Verilog, mostly preipherals, DSP
+* [ZipCPU repositories](https://github.com/ZipCPU?tab=repositories) - Verilog, mostly peripherals, DSP
 * [rhea](https://github.com/cfelton/rhea) - MyHDL, SoC level modules
 * [FPGAwars FPGA-peripherals](https://github.com/FPGAwars/FPGA-peripherals) - Verilog, simple peripherals
 * [PoC](https://github.com/VLSI-EDA/PoC) - VHDL, utils
 * [picorv32](https://github.com/cliffordwolf/picorv32) - Verilog, A Size-Optimized RISC-V SoC
 * [openrisc](https://github.com/openrisc) - OpenRISC, FuseSoC, peripherals and cpu parts
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
-* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL 
+* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL
 * [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification/) - A list of open source tools and frameworks for hardware verification.
 
 ## License
