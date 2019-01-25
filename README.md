@@ -30,6 +30,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [concat](https://github.com/conal/concat) Haskell to hardware, 2016+
    - https://github.com/conal/talk-2015-haskell-to-hardware
    - [CλaSH](https://github.com/clash-lang/clash-compiler) - A functional hardware description language
+   - [pipelineDSL](https://github.com/p12nGH/pipelineDSL) - A Haskell DSL for describing hardware pipelines
 
 * Java
    - [jhdl](http://www.jhdl.org/) ..2006
