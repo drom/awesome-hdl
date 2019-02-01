@@ -77,6 +77,9 @@ A curated list of amazingly awesome hardware description language projects.
 * [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 
+## Other HDL languages
+
+* [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
 
 ## Synthesis tools
 
