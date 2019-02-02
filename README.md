@@ -62,7 +62,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
 ## HLS
-
+* [hlslibs](https://github.com/hlslibs) - ac_math, ac_dsp, ac_types
 * [legup](http://legup.eecg.utoronto.ca/) - 2011-2015, LLVM based c->verilog
 * [bambu](http://panda.dei.polimi.it/?page_id=31) - 2003-?, GCC based c->verilog
 * [augh](http://tima.imag.fr/sls/research-projects/augh/) - c->verilog, DSP support
