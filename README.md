@@ -118,6 +118,7 @@ A curated list of amazingly awesome hardware description language projects.
 # Open Hardware
 
 * [opencores.org](https://opencores.org/) - webpage which hosts many openhardware projects
+* [ohwr](https://ohwr.org/welcome) - Open Hardware Repository, Cern open hardware community.
 * [enjoy-digital repositories](https://github.com/enjoy-digital?tab=repositories) - Migen, SoC level modules
 * [ZipCPU repositories](https://github.com/ZipCPU?tab=repositories) - Verilog, mostly peripherals, DSP
 * [rhea](https://github.com/cfelton/rhea) - MyHDL, SoC level modules
