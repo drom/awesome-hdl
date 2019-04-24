@@ -77,6 +77,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
+* [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
 
 ## Other HDL languages
 
