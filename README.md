@@ -23,8 +23,8 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Meta HDL and Transpilers
 
-* C/C++
-   - [autopiper](https://github.com/google/autopiper)
+* C++
+   - [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
 * Haskel
    - [concat](https://github.com/conal/concat) Haskell to hardware, 2016+
@@ -82,6 +82,7 @@ A curated list of amazingly awesome hardware description language projects.
 ## Other HDL languages
 
 * [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
+* [autopiper](https://github.com/google/autopiper)
 
 ## Synthesis tools
 
