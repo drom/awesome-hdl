@@ -61,6 +61,9 @@ A curated list of amazingly awesome hardware description language projects.
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
+* [Oberon](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/)
+   - [Lola](https://inf.ethz.ch/personal/wirth/Lola/) - HDL 
+
 ## HLS
 * [hlslibs](https://github.com/hlslibs) - ac_math, ac_dsp, ac_types
 * [legup](http://legup.eecg.utoronto.ca/) - 2011-2015, LLVM based c->verilog
