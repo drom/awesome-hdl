@@ -56,6 +56,9 @@ A curated list of amazingly awesome hardware description language projects.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
   - [veriloggen](https://github.com/PyHDI/veriloggen) - 2015-?, Python, Verilog centric meta HDL with HLS like features
 
+* Ruby
+   - [RHDL](https://github.com/philtomson/RHDL)
+
 * Rust
    - [hoodlum](https://github.com/tcr/hoodlum) - Meta HDL, 2016+
 
