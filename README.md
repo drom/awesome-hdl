@@ -26,7 +26,7 @@ A curated list of amazingly awesome hardware description language projects.
 * C++
    - [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
-* Haskel
+* Haskell
    - [concat](https://github.com/conal/concat) Haskell to hardware, 2016+
    - https://github.com/conal/talk-2015-haskell-to-hardware
    - [CλaSH](https://github.com/clash-lang/clash-compiler) - A functional hardware description language
