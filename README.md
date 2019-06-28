@@ -90,7 +90,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Hardware Intermediate Representations                                                                                                                                                                                                     
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License                                          
-* [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for VLSI Design
+* [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
 * [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL                                          
 ## Synthesis tools
 
