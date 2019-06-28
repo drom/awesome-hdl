@@ -80,7 +80,6 @@ A curated list of amazingly awesome hardware description language projects.
 * [abc](https://people.eecs.berkeley.edu/~alanmi/abc/) <2008-?, A System for Sequential Synthesis and Verification
 * [polyphony](https://github.com/ktok07b6/polyphony) - 2015-2017, simple python to hdl
 * [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
-* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
 
@@ -89,6 +88,10 @@ A curated list of amazingly awesome hardware description language projects.
 * [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
 * [autopiper](https://github.com/google/autopiper)
 
+## Hardware Intermediate Representations                                                                                                                                                                                                     
+* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License                                          
+* [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for VLSI Design
+* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL                                          
 ## Synthesis tools
 
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
