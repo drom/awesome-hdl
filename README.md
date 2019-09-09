@@ -26,6 +26,7 @@ A curated list of amazingly awesome hardware description language projects.
 ## Meta HDL and Transpilers
 
 * C++
+   - [SystemC](https://www.doulos.com/knowhow/systemc/) - an IEEE standard meta-HDL
    - [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
 * Haskell
