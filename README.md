@@ -51,7 +51,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [HWT](https://github.com/Nic30/hwt) Meta HDL, verification env. IP-core generator, analysis tools, HDL glue
   - [garnet](https://github.com/StanfordAHA/garnet) Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
   - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
-  - [migen](https://github.com/m-labs/migen) - Meta HDL, 2013+
+  - [migen](https://github.com/m-labs/migen) - Meta HDL, 2011+
   - [MyHDL](https://github.com/myhdl/myhdl) - Process based HDL, verification framework included, 2004+
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
