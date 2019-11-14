@@ -2,7 +2,8 @@
 
 A curated list of amazingly awesome hardware description language projects.
 
-# Hardware developement
+
+# Hardware development
 
 ## HDL doc
 
@@ -22,6 +23,7 @@ A curated list of amazingly awesome hardware description language projects.
       * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, writen in ADA
    * [Lola-2](https://inf.ethz.ch/personal/wirth/Lola/Lola2.pdf)
       - [Oberon-2013](https://inf.ethz.ch/personal/wirth/Lola/) - Project Oberon, 2013 Edition, written in [Oberon-07](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/) [License](https://inf.ethz.ch/personal/wirth/ProjectOberon/license.txt)
+
 
 ## Meta HDL and Transpilers
 
@@ -53,9 +55,10 @@ A curated list of amazingly awesome hardware description language projects.
   - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
   - [migen](https://github.com/m-labs/migen) - Meta HDL, 2011+
   - [MyHDL](https://github.com/myhdl/myhdl) - Process based HDL, verification framework included, 2004+
+  - [Pyrope](https://masc.soe.ucsc.edu/pyrope.html) - Python-like language supporting "fluid pipelines" and "live flow", 2017+
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
-  - [veriloggen](https://github.com/PyHDI/veriloggen) - 2015-?, Python, Verilog centric meta HDL with HLS like features
+  - [veriloggen](https://github.com/PyHDI/veriloggen) - Python, Verilog centric meta HDL with HLS like features, 2015-?
 
 * Ruby
    - [RHDL](https://github.com/philtomson/RHDL)
@@ -67,7 +70,9 @@ A curated list of amazingly awesome hardware description language projects.
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
+
 ## HLS
+
 * [hlslibs](https://github.com/hlslibs) - ac_math, ac_dsp, ac_types
 * [legup](http://legup.eecg.utoronto.ca/) - 2011-2015, LLVM based c->verilog
 * [bambu](http://panda.dei.polimi.it/?page_id=31) - 2003-?, GCC based c->verilog
@@ -84,22 +89,28 @@ A curated list of amazingly awesome hardware description language projects.
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
 
+
 ## Other HDL languages
 
 * [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
 * [autopiper](https://github.com/google/autopiper)
+* [TL-Verilog](https://makerchip.com) - 2015+, Supports "timing-abstract" and "transaction-level design" methodologies; supported by proprietary and open-source tools
 
-## Hardware Intermediate Representations                                                                                                                                                                                                     
+
+## Hardware Intermediate Representations
+
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License                                          
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
-* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL                                          
+* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL 
+
+                                         
 ## Synthesis tools
 
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
 * [yosys](https://github.com/YosysHQ/yosys) - RTL synthesis framework
 
 
-## Libraries with informations about boards/chips
+## Libraries with information about boards/chips
 
 * [loam](https://github.com/phanrahan/loam) - Buildsystem for magma
 * [litex](https://github.com/enjoy-digital/litex) - Buildsystem for migen
