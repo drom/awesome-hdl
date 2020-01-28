@@ -65,6 +65,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 * Rust
    - [hoodlum](https://github.com/tcr/hoodlum) - Meta HDL, 2016+
+   - [kaze](https://github.com/yupferris/kaze) - Meta HDL, 2019+
 
 * Scala
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
