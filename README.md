@@ -101,11 +101,11 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Hardware Intermediate Representations
 
-* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License                                          
+* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
-* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL 
+* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
 
-                                         
+
 ## Synthesis tools
 
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
@@ -139,6 +139,10 @@ A curated list of amazingly awesome hardware description language projects.
 
 * [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 * [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+
+## Other Design Automation tools
+
+* [RgGen](https://github.com/rggen/rggen) - Code generator tool to generate RTL, UVM RAL models and Wiki documents from CSR specifications
 
 # Open Hardware
 
