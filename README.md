@@ -101,11 +101,11 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Hardware Intermediate Representations
 
-* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License                                          
+* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
-* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL 
+* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
 
-                                         
+
 ## Synthesis tools
 
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
@@ -154,6 +154,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
 * [Miaow](http://miaowgpu.org/) - Miaow, Southern Island compatible ISA compute only GPGPU
 * [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL
+* [TNoC](https://github.com/taichi-ishitani/tnoc) - Network on Chip router written in SystemVerilog
 * [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification/) - A list of open source tools and frameworks for hardware verification.
 
 ## License
