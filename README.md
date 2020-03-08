@@ -158,6 +158,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU
 * [Miaow](http://miaowgpu.org/) - Miaow, Southern Island compatible ISA compute only GPGPU
 * [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL
+* [TNoC](https://github.com/taichi-ishitani/tnoc) - Network on Chip router written in SystemVerilog
 * [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification/) - A list of open source tools and frameworks for hardware verification.
 
 ## License
