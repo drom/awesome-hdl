@@ -56,6 +56,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
   - [migen](https://github.com/m-labs/migen) - Meta HDL, 2011+
   - [MyHDL](https://github.com/myhdl/myhdl) - Process based HDL, verification framework included, 2004+
+  - [nMigen](https://github.com/nmigen/nmigen/) - A refreshed Python toolbox for building complex digital hardware, 2018+
   - [Pyrope](https://masc.soe.ucsc.edu/pyrope.html) - Python-like language supporting "fluid pipelines" and "live flow", 2017+
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
