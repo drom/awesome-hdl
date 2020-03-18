@@ -141,6 +141,10 @@ A curated list of amazingly awesome hardware description language projects.
 * [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 * [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 
+## Other Design Automation tools
+
+* [RgGen](https://github.com/rggen/rggen) - Code generator tool to generate RTL, UVM RAL models and Wiki documents from CSR specifications
+
 # Open Hardware
 
 * [opencores.org](https://opencores.org/) - webpage which hosts many openhardware projects
