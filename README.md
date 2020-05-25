@@ -105,18 +105,13 @@ A curated list of amazingly awesome hardware description language projects.
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
 * [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
+* [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools
 
 
 ## Synthesis tools
 
 * [vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
 * [yosys](https://github.com/YosysHQ/yosys) - RTL synthesis framework
-
-
-## Libraries with information about boards/chips
-
-* [loam](https://github.com/phanrahan/loam) - Buildsystem for magma
-* [litex](https://github.com/enjoy-digital/litex) - Buildsystem for migen
 
 
 ## Visualization and Documentation generators
