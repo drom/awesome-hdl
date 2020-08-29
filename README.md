@@ -130,6 +130,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser written in Python
 * [rust_hdl](https://github.com/kraigher/rust_hdl) - VHDL parser and language server written in Rust
 * [sv-parser](https://github.com/dalance/sv-parser) -  IEEE 1800-2017 System Verilog Parser written in Rust
+* [verible](https://google.github.io/verible) - Verible provides a SystemVerilog parser, style-linter, and formatter.
 
 ## Other Simulation tools
 
@@ -139,6 +140,7 @@ A curated list of amazingly awesome hardware description language projects.
 ## Other Design Automation tools
 
 * [RgGen](https://github.com/rggen/rggen) - Code generator tool to generate RTL, UVM RAL models and Wiki documents from CSR specifications
+* [sv-tests](https://symbiflow.github.io/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard
 
 ## License
 
