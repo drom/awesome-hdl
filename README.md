@@ -11,18 +11,7 @@ A curated list of amazingly awesome hardware description language projects.
 * VHDL standards [IEEE Std 1076-2000](http://edg.uchicago.edu/~tang/VHDLref.pdf)
 * SystemC standards [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
 
-
-## HDL simulators and compilers
-
-   * Verilog
-      - [Verilator](https://www.veripool.org/wiki/verilator) Verilog to C++ transpiler
-      - [Icarus Verilog](http://iverilog.icarus.com/) - simulator
-      - [Yosys](http://www.clifford.at/yosys/) - RTL synthesis
-   * VHDL
-      * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, writen in C
-      * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, writen in ADA
-   * [Lola-2](https://inf.ethz.ch/personal/wirth/Lola/Lola2.pdf)
-      - [Oberon-2013](https://inf.ethz.ch/personal/wirth/Lola/) - Project Oberon, 2013 Edition, written in [Oberon-07](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/) [License](https://inf.ethz.ch/personal/wirth/ProjectOberon/license.txt)
+# Languages
 
 
 ## Meta HDL and Transpilers
@@ -74,6 +63,34 @@ A curated list of amazingly awesome hardware description language projects.
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
 
+## Other HDL languages
+
+* [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
+* [autopiper](https://github.com/google/autopiper)
+* [TL-Verilog](https://makerchip.com) - 2015+, Supports "timing-abstract" and "transaction-level design" methodologies; supported by proprietary and open-source tools
+
+# Tools
+
+## HDL simulators and compilers
+
+   * Verilog
+      - [Verilator](https://www.veripool.org/wiki/verilator) Verilog to C++ transpiler
+      - [Icarus Verilog](http://iverilog.icarus.com/) - simulator
+      - [Yosys](http://www.clifford.at/yosys/) - RTL synthesis
+   * VHDL
+      * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, writen in C
+      * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, writen in ADA
+   * [Lola-2](https://inf.ethz.ch/personal/wirth/Lola/Lola2.pdf)
+      - [Oberon-2013](https://inf.ethz.ch/personal/wirth/Lola/) - Project Oberon, 2013 Edition, written in [Oberon-07](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/) [License](https://inf.ethz.ch/personal/wirth/ProjectOberon/license.txt)
+
+
+## Hardware Intermediate Representations
+
+* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
+* [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
+* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
+* [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools
+
 ## HLS
 
 * [hlslibs](https://github.com/hlslibs) - ac_math, ac_dsp, ac_types
@@ -91,22 +108,6 @@ A curated list of amazingly awesome hardware description language projects.
 * [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
-
-
-## Other HDL languages
-
-* [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
-* [autopiper](https://github.com/google/autopiper)
-* [TL-Verilog](https://makerchip.com) - 2015+, Supports "timing-abstract" and "transaction-level design" methodologies; supported by proprietary and open-source tools
-
-
-## Hardware Intermediate Representations
-
-* [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
-* [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
-* [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
-* [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools
-
 
 ## Synthesis tools
 
