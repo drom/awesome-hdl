@@ -73,7 +73,9 @@ A curated list of amazingly awesome hardware description language projects.
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
-
+* C#
+   - [Quokka](https://github.com/EvgenyMuryshkin/qusoc) - C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC) 
+    
 ## HLS
 
 * [hlslibs](https://github.com/hlslibs) - ac_math, ac_dsp, ac_types
@@ -91,6 +93,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
+* [Quokka](https://github.com/EvgenyMuryshkin/QuokkaEvaluation) - C# to HL RTL translator
 
 
 ## Other HDL languages
