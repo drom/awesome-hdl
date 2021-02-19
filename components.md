@@ -14,3 +14,4 @@
 * [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - RISC-V written in SpinalHDL
 * [TNoC](https://github.com/taichi-ishitani/tnoc) - Network on Chip router written in SystemVerilog
 * [Awesome Open Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification/) - A list of open source tools and frameworks for hardware verification.
+* [Quokka](https://github.com/EvgenyMuryshkin/qusoc) - RISC-V and SoC written in C#, translates to Verilog and VHDL
