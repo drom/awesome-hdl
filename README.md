@@ -94,6 +94,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
 * [Quokka](https://github.com/EvgenyMuryshkin/QuokkaEvaluation) - C# to HL RTL translator
+* [Vitis](https://github.com/Xilinx/HLS) - LLVM based, made by Xilinx. [user manual](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_2/ug1399-vitis-hls.pdf)
 
 
 ## Other HDL languages
