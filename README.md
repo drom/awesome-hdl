@@ -31,6 +31,9 @@ A curated list of amazingly awesome hardware description language projects.
    - [SystemC](https://www.doulos.com/knowhow/systemc/) - an IEEE standard meta-HDL
    - [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
+* Dart
+   - [ROHD](https://github.com/intel/rohd) - A framework for hardware description and verification, 2021+
+
 * Haskell
    - [concat](https://github.com/conal/concat) Haskell to hardware, 2016+
    - https://github.com/conal/talk-2015-haskell-to-hardware
