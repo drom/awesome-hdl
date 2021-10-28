@@ -31,6 +31,9 @@ A curated list of amazingly awesome hardware description language projects.
    - [SystemC](https://www.doulos.com/knowhow/systemc/) - an IEEE standard meta-HDL
    - [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
+* Dart
+   - [ROHD](https://github.com/intel/rohd) - A framework for hardware description and verification, 2021+
+
 * Haskell
    - [concat](https://github.com/conal/concat) Haskell to hardware, 2016+
    - https://github.com/conal/talk-2015-haskell-to-hardware
@@ -68,6 +71,7 @@ A curated list of amazingly awesome hardware description language projects.
 * Rust
    - [hoodlum](https://github.com/tcr/hoodlum) - Meta HDL, 2016+
    - [kaze](https://github.com/yupferris/kaze) - Meta HDL, 2019+
+   - [calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators, 2020+
 
 * Scala
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
@@ -106,6 +110,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 ## Hardware Intermediate Representations
 
+* [CIRCT](https://circt.llvm.org) - 2020+, LLVM / MLIR framework "Circuit IR Compilers and Tools"
 * [coreir](https://github.com/rdaly525/coreir) - 2016-?, LLVM HW compiler## License
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
 * [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
