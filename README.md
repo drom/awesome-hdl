@@ -19,8 +19,8 @@ A curated list of amazingly awesome hardware description language projects.
       - [Icarus Verilog](http://iverilog.icarus.com/) - simulator
       - [Yosys](http://www.clifford.at/yosys/) - RTL synthesis
    * VHDL
-      * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, writen in C
-      * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, writen in ADA
+      * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, written in C
+      * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, written in ADA
    * [Lola-2](https://inf.ethz.ch/personal/wirth/Lola/Lola2.pdf)
       - [Oberon-2013](https://inf.ethz.ch/personal/wirth/Lola/) - Project Oberon, 2013 Edition, written in [Oberon-07](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/) [License](https://inf.ethz.ch/personal/wirth/ProjectOberon/license.txt)
 
@@ -122,15 +122,15 @@ A curated list of amazingly awesome hardware description language projects.
 
 * [bitfield](https://github.com/drom/bitfield) - Javascript bit field diagram renderer
 * [d3-wave](https://github.com/Nic30/d3-wave) - Javascript wave graph visualizer for RTL simulations
-* [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) - Javascript hierarchycal schematic visualizer for HDLs
+* [d3-hwschematic](https://github.com/Nic30/d3-hwschematic) - Javascript hierarchical schematic visualizer for HDLs
 * [wavedrom](https://github.com/drom/wavedrom) - Javascript wave graph visualizer for documentations and sim.
 * [netlistsvg](https://github.com/nturley/netlistsvg) - Javascript schematic visualizer
-* [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds shematic into html documentaion.
+* [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds schematic into html documentation.
 
 
 ## HDL parsers
 
-* [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser writen as C++ extension for Python
+* [hdlConvertor](https://github.com/Nic30/hdlConvertor) - Fast (System) Verilog/VHDL parser written as C++ extension for Python
 * [pyVHDLParser](https://github.com/Paebbels/pyVHDLParser) - VHDL parser written in Python
 * [rust_hdl](https://github.com/kraigher/rust_hdl) - VHDL parser and language server written in Rust
 * [sv-parser](https://github.com/dalance/sv-parser) -  IEEE 1800-2017 System Verilog Parser written in Rust
@@ -139,7 +139,7 @@ A curated list of amazingly awesome hardware description language projects.
 ## Other Simulation tools
 
 * [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
-* [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
+* [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based co-simulation library for writing VHDL and Verilog testbenches in Python
 
 ## Other Design Automation tools
 
