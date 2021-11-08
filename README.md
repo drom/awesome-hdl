@@ -53,6 +53,9 @@ A curated list of amazingly awesome hardware description language projects.
 * Julia
    - [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - a Verilog-generation DSL for Julia., 2017
 
+* OCaml
+   - [Hardcaml](https://github.com/janestreet/hardcaml/blob/master/docs/index.mdx) An OCaml library for designing hardware, complete with testing and simulation tools.
+
 * Python
   - [HWT](https://github.com/Nic30/hwt) Meta HDL, verification env. IP-core generator, analysis tools, HDL glue
   - [garnet](https://github.com/StanfordAHA/garnet) Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
