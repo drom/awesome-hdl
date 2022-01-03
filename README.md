@@ -115,7 +115,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
 * [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
 * [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools
-
+* [SpyDrNet](https://byuccl.github.io/spydrnet/) - 2019+, Framework for parsing and manipulating structural netlists in Python 
 
 ## Synthesis tools
 
