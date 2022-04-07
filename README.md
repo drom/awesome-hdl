@@ -53,6 +53,9 @@ A curated list of amazingly awesome hardware description language projects.
 * Julia
    - [Julia-Verilog](https://github.com/interplanetary-robot/Verilog.jl) - a Verilog-generation DSL for Julia., 2017
 
+* Kotlin
+   - [Verik](https://github.com/frwang96/verik) - Kotlin reinterpreted with the semantics of an HDL. It is transpiled to SystemVerilog.
+
 * OCaml
    - [Hardcaml](https://github.com/janestreet/hardcaml/blob/master/docs/index.mdx) An OCaml library for designing hardware, complete with testing and simulation tools.
 
