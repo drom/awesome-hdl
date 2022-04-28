@@ -134,6 +134,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [wavedrom](https://github.com/drom/wavedrom) - Javascript wave graph visualizer for documentations and sim.
 * [netlistsvg](https://github.com/nturley/netlistsvg) - Javascript schematic visualizer
 * [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds schematic into html documentation.
+* [Visual Debug](https://redwoodeda.com/viz) - Custom simulation visualization framework, available within the [Makerchip.com](https://makerchip.com) IDE.
 
 
 ## HDL parsers
