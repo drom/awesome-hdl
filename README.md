@@ -67,6 +67,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
   - [veriloggen](https://github.com/PyHDI/veriloggen) - Python, Verilog centric meta HDL with HLS like features, 2015-?
+  - [Hdl21](https://github.com/dan-fritchman/Hdl21) - Analog HDL in Python
 
 * Ruby
    - [RHDL](https://github.com/philtomson/RHDL)
@@ -119,6 +120,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
 * [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools
 * [SpyDrNet](https://byuccl.github.io/spydrnet/) - 2019+, Framework for parsing and manipulating structural netlists in Python 
+* [VLSIR](https://github.com/Vlsir/Vlsir) - IC Interchange Formats, defined in Google Protobuf SDL
 
 ## Synthesis tools
 
