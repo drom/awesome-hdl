@@ -56,6 +56,9 @@ A curated list of amazingly awesome hardware description language projects.
 * OCaml
    - [Hardcaml](https://github.com/janestreet/hardcaml/blob/master/docs/index.mdx) An OCaml library for designing hardware, complete with testing and simulation tools.
 
+* Kotlin
+  - [Verik](https://github.com/frwang96/verik) HDL for design and verification. generates SV. UVM.
+
 * Python
   - [HWT](https://github.com/Nic30/hwt) Meta HDL, verification env. IP-core generator, analysis tools, HDL glue
   - [garnet](https://github.com/StanfordAHA/garnet) Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
