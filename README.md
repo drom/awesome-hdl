@@ -86,6 +86,9 @@ A curated list of amazingly awesome hardware description language projects.
 
 * C#
    - [Quokka](https://github.com/EvgenyMuryshkin/qusoc) - C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC) 
+
+* Veryl
+   - [Veryl](https://github.com/dalance/veryl) - An original HDL based on SystemVerilog / Rust syntax, and transplier to SystemVerilog
     
 ## HLS
 
