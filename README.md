@@ -21,6 +21,9 @@ A curated list of amazingly awesome hardware description language projects.
    * VHDL
       * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, written in C
       * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, written in ADA
+   * chisel/firrtl
+      * [essent](https://github.com/ucsc-vama/essent) - firrtl to optimized C++ transpiler
+      * [treadle](https://github.com/chipsalliance/treadle) - firrtl simulator written in Scala
    * [Lola-2](https://inf.ethz.ch/personal/wirth/Lola/Lola2.pdf)
       - [Oberon-2013](https://inf.ethz.ch/personal/wirth/Lola/) - Project Oberon, 2013 Edition, written in [Oberon-07](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/) [License](https://inf.ethz.ch/personal/wirth/ProjectOberon/license.txt)
 
