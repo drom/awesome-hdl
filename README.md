@@ -168,6 +168,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [RgGen](https://github.com/rggen/rggen) - Code generator tool to generate RTL, UVM RAL models and Wiki documents from CSR specifications
 * [sv-tests](https://symbiflow.github.io/sv-tests) - Test suite designed to check compliance with the SystemVerilog standard
 * [tbengy](https://github.com/prasadp4009/tbengy) - Code generator tool to generate SV/UVM RTL and Testbech as well scripts with support for bitstream generation for Digilent FPGAs
+* [HDLGen](https://github.com/WilsonChen003/HDLGen) - Tool for processing of embedded Perl or Python scripts in Verilog source code.
 
 ## License
 
