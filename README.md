@@ -156,6 +156,9 @@ A curated list of amazingly awesome hardware description language projects.
 * [rust_hdl](https://github.com/kraigher/rust_hdl) - VHDL parser and language server written in Rust
 * [sv-parser](https://github.com/dalance/sv-parser) -  IEEE 1800-2017 System Verilog Parser written in Rust
 * [verible](https://chipsalliance.github.io/verible/) - Verible provides a SystemVerilog parser, style-linter, and formatter.
+* [slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language service.
+* [pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
+* [Surelog](https://github.com/chipsalliance/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API. 
 
 ## Other Simulation tools
 
