@@ -68,8 +68,8 @@ A curated list of amazingly awesome hardware description language projects.
   - [garnet](https://github.com/StanfordAHA/garnet) Coarse-Grained Reconfigurable Architecture generator based on magma, 2018+
   - [magma](https://github.com/phanrahan/magma/) - Meta HDL, 2017+
   - [migen](https://github.com/m-labs/migen) - Meta HDL, 2011+
+  - [Amaranth](https://github.com/amaranth-lang/amaranth) (previously nMigen) - A refreshed Python toolbox for building complex digital hardware, 2018+
   - [MyHDL](https://github.com/myhdl/myhdl) - Process based HDL, verification framework included, 2004+
-  - [nMigen](https://github.com/nmigen/nmigen/) - A refreshed Python toolbox for building complex digital hardware, 2018+
   - [Pyrope](https://masc.soe.ucsc.edu/pyrope.html) - Python-like language supporting "fluid pipelines" and "live flow", 2017+
   - [PyRTL](https://github.com/UCSBarchlab/PyRTL) - Meta HDL, simulator suitable for research.
   - [PyMTL](https://github.com/cornell-brg/pymtl) - Process based HDL, verification framework included, 2014+
@@ -114,6 +114,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
 * [Quokka](https://github.com/EvgenyMuryshkin/QuokkaEvaluation) - C# to HL RTL translator
 * [Vitis](https://github.com/Xilinx/HLS) - LLVM based, made by Xilinx. [user manual](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_2/ug1399-vitis-hls.pdf)
+* [XLS](https://google.github.io/xls/) - 2020, HLS toolchain from Google
 
 
 ## Other HDL languages
