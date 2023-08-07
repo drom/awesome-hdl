@@ -121,6 +121,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 * [act](https://github.com/asyncvlsi/act) - asynchronous circuit/compiler tools
 * [autopiper](https://github.com/google/autopiper)
+* [Silice](https://github.com/sylefeb/Silice) - A language for hardcoding algorithms into FPGA hardware
 * [TL-Verilog](https://makerchip.com) - 2015+, Supports "timing-abstract" and "transaction-level design" methodologies; supported by proprietary and open-source tools
 
 
