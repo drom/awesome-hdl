@@ -168,6 +168,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 * [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based co-simulation library for writing VHDL and Verilog testbenches in Python
 * [osvvm](https://github.com/OSVVM/OsvvmLibraries) -  A VHDL verification framework, verification utility library, verification component library, and a simulator independent scripting flow
+* [uvvm](https://github.com/OSVVM/OsvvmLibraries) - A free and Open Source Methodology and Library for VHDL verification of FPGA and ASIC.
 
 ## Other Design Automation tools
 
@@ -178,6 +179,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [HDLGen](https://github.com/WilsonChen003/HDLGen) - Tool for processing of embedded Perl or Python scripts in Verilog source code.
 * [fusesoc](https://github.com/olofk/fusesoc) -  Package manager and a set of build tools for HDL.
 * [bender](https://github.com/pulp-platform/bender) -  Dependency management tool for hardware design projects.
+* [hbs](https://github.com/m-kru/hbs) - A lean dependency management and build system for hardware description projects.
 
 ## License
 
