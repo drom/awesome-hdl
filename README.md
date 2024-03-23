@@ -84,6 +84,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [hoodlum](https://github.com/tcr/hoodlum) - Meta HDL, 2016+
    - [kaze](https://github.com/yupferris/kaze) - Meta HDL, 2019+
    - [calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators, 2020+
+   - [Spade](https://gitlab.com/spade-lang/spade) - A hardware description language inspired by modern software languages like Rust.
 
 * Scala
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
