@@ -186,7 +186,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 * [Accellera](https://www.accellera.org/downloads/standards/portable-stimulus) - specification to create a single representation of stimulus and test scenarios
 * [PSS 2.1 LRM](https://www.accellera.org/images/downloads/standards/pss/Portable_Test_Stimulus_Standard_v2.1.pdf) - PDF Spec
-
+* [PSS CookBook](https://github.com/LeeKaiXuan/PSS_Cookbook) - Documentation for introducing the usage of PSS language
 
 
 ## License
