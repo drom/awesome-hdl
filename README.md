@@ -182,6 +182,13 @@ A curated list of amazingly awesome hardware description language projects.
 * [bender](https://github.com/pulp-platform/bender) -  Dependency management tool for hardware design projects.
 * [hbs](https://github.com/m-kru/hbs) - A lean dependency management and build system for hardware description projects.
 
+## PSS : Portable test and Stimulus Standard
+
+* [Accellera](https://www.accellera.org/downloads/standards/portable-stimulus) - specification to create a single representation of stimulus and test scenarios
+* [PSS 2.1 LRM](https://www.accellera.org/images/downloads/standards/pss/Portable_Test_Stimulus_Standard_v2.1.pdf) - PDF Spec
+
+
+
 ## License
 
 [![CC0](cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
