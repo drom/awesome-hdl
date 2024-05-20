@@ -91,11 +91,11 @@ A curated list of amazingly awesome hardware description language projects.
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
 
 * C#
-   - [Quokka](https://github.com/EvgenyMuryshkin/qusoc) - C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC) 
+   - [Quokka](https://github.com/EvgenyMuryshkin/qusoc) - C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC)
 
 * Veryl
    - [Veryl](https://github.com/dalance/veryl) - An original HDL based on SystemVerilog / Rust syntax, and transplier to SystemVerilog
-    
+
 ## HLS
 
 * [hlslibs](https://github.com/hlslibs) - ac_math, ac_dsp, ac_types
@@ -133,7 +133,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [lgraph](https://github.com/masc-ucsc/lgraph) - 2017-?, A Multi-Language Synthesis and Simulation IR for Hardware Design
 * [firrtl](https://github.com/freechipsproject/firrtl) - 2016-?, Flexible Intermediate Representation for RTL
 * [LLHD](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools
-* [SpyDrNet](https://byuccl.github.io/spydrnet/) - 2019+, Framework for parsing and manipulating structural netlists in Python 
+* [SpyDrNet](https://byuccl.github.io/spydrnet/) - 2019+, Framework for parsing and manipulating structural netlists in Python
 * [VLSIR](https://github.com/Vlsir/Vlsir) - IC Interchange Formats, defined in Google Protobuf SDL
 
 ## Synthesis tools
@@ -162,7 +162,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [verible](https://chipsalliance.github.io/verible/) - Verible provides a SystemVerilog parser, style-linter, and formatter.
 * [slang](https://github.com/MikePopoloski/slang) - SystemVerilog compiler and language service.
 * [pyverilog](https://github.com/PyHDI/Pyverilog) - Python-based Hardware Design Processing Toolkit for Verilog HDL
-* [Surelog](https://github.com/chipsalliance/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API. 
+* [Surelog](https://github.com/chipsalliance/Surelog) - SystemVerilog 2017 Pre-processor, Parser, Elaborator, UHDM Compiler. Provides IEEE Design/TB C/C++ VPI and Python AST API.
 
 ## Other Simulation tools
 
