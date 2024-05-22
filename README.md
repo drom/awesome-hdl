@@ -187,6 +187,16 @@ A curated list of amazingly awesome hardware description language projects.
 * [Accellera](https://www.accellera.org/downloads/standards/portable-stimulus) - specification to create a single representation of stimulus and test scenarios
 * [PSS 2.1 LRM](https://www.accellera.org/images/downloads/standards/pss/Portable_Test_Stimulus_Standard_v2.1.pdf) - PDF Spec
 * [PSSTools Org](https://github.com/PSSTools) - PSS releated tools on GitHub. Parsers, editor plugins.
+* [Matthew Ballance](https://github.com/mballance) PSS Blog posts:
+   - [Automating Bare-Metal Tests with PSS](https://bitsbytesgates.com/pss/2023/02/25/AutomatingBareMetalTestsWithPSS.html)
+   - [PSS Fundamentals: Actions, Components, and Test Generation](https://bitsbytesgates.com/pss/2023/03/03/ActionsComponents_and_TestGeneration.html)
+   - [Declarative Programming and Multi-Core Tests](https://bitsbytesgates.com/pss/2023/03/11/DeclarativeMultiCoreTests.html)
+   - [Relating Actions with Dataflow](https://bitsbytesgates.com/pss/2023/03/18/RelatingActionsWithDataflow.html)
+   - [Modeling DMA Test Scenarios with PSS](https://bitsbytesgates.com/pss/2023/03/25/ModelingTestScenariosForDMA.html)
+   - [PSS Memory Management Fundamentals](https://bitsbytesgates.com/pss/2023/04/02/ManagingMemoryInPSS.html)
+   - [PSS Concurrency and Resources](https://bitsbytesgates.com/pss/2023/04/09/PSSConcurrencyAndResources.html)
+   - [Interacting with Devices via PSS Registers](https://bitsbytesgates.com/pss/2023/04/18/InteractingWithDevicesViaRegisters.html)
+   - [Relating Actions with Dataflow Part2 -- Parallelism](https://bitsbytesgates.com/pss/2023/05/07/RelatingActionsWithDataflowPart2.html)
 * [PSS CookBook](https://github.com/LeeKaiXuan/PSS_Cookbook) - Documentation for introducing the usage of PSS language
 
 
