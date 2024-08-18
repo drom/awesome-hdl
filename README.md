@@ -170,6 +170,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based co-simulation library for writing VHDL and Verilog testbenches in Python
 * [osvvm](https://github.com/OSVVM/OsvvmLibraries) -  A VHDL verification framework, verification utility library, verification component library, and a simulator independent scripting flow
 * [uvvm](https://github.com/OSVVM/OsvvmLibraries) - A free and Open Source Methodology and Library for VHDL verification of FPGA and ASIC.
+* [crave](https://github.com/antmicro/crave) - Constrained random stimuli generation for C++ and SystemC (AntMicro's fork of [crave](https://github.com/agra-uni-bremen/crave))
 
 ## Other Design Automation tools
 
