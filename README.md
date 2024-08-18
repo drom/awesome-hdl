@@ -181,6 +181,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [fusesoc](https://github.com/olofk/fusesoc) -  Package manager and a set of build tools for HDL.
 * [bender](https://github.com/pulp-platform/bender) -  Dependency management tool for hardware design projects.
 * [hbs](https://github.com/m-kru/hbs) - A lean dependency management and build system for hardware description projects.
+* [svlint](https://github.com/dalance/svlint) - SystemVerilog linter compliant with IEEE1800-2017. Written in Rust, based on [sv-parser](https://github.com/dalance/sv-parser). 
 
 ## PSS : Portable test and Stimulus Standard
 
