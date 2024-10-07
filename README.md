@@ -76,6 +76,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [veriloggen](https://github.com/PyHDI/veriloggen) - Python, Verilog centric meta HDL with HLS like features, 2015-?
   - [Hdl21](https://github.com/dan-fritchman/Hdl21) - Analog HDL in Python
   - [PyHGL](https://github.com/PyHGL/pyhgl) - Meta HDL, three-state event-driven simulation, 2022+
+  - [seqlogic](https://github.com/cjdrake/seqlogic) - Sequential logic simulation
 
 * Ruby
    - [RHDL](https://github.com/philtomson/RHDL)
