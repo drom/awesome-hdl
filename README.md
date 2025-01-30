@@ -26,6 +26,9 @@ A curated list of amazingly awesome hardware description language projects.
       * [treadle](https://github.com/chipsalliance/treadle) - firrtl simulator written in Scala
    * [Lola-2](https://inf.ethz.ch/personal/wirth/Lola/Lola2.pdf)
       - [Oberon-2013](https://inf.ethz.ch/personal/wirth/Lola/) - Project Oberon, 2013 Edition, written in [Oberon-07](http://www-oldurls.inf.ethz.ch/personal/wirth/Oberon/) [License](https://inf.ethz.ch/personal/wirth/ProjectOberon/license.txt)
+   * CIRCT
+      * [ksim](https://github.com/pku-liang/ksim) - CIRCT IR to optimized C++ transpiler
+      * [arcilator](https://github.com/circt/arc-tests) - Fast and cycle-accurate hardware simulation in CIRCT
 
 
 ## Meta HDL and Transpilers
@@ -85,6 +88,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [kaze](https://github.com/yupferris/kaze) - Meta HDL, 2019+
    - [calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators, 2020+
    - [Spade](https://gitlab.com/spade-lang/spade) - A hardware description language inspired by modern software languages like Rust.
+   - [Cement](https://github.com/pku-liang/Cement) - A rule-based Meta HDL inspired by Bluespec, 2024+
 
 * Scala
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
@@ -116,6 +120,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [Quokka](https://github.com/EvgenyMuryshkin/QuokkaEvaluation) - C# to HL RTL translator
 * [Vitis](https://github.com/Xilinx/HLS) - LLVM based, made by Xilinx. [user manual](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_2/ug1399-vitis-hls.pdf)
 * [XLS](https://google.github.io/xls/) - 2020, HLS toolchain from Google
+* [hector](https://github.com/pku-liang/Hector) - 2022, An open-source hardware synthesis framework using MLIR
 
 
 ## Other HDL languages
