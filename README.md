@@ -29,7 +29,13 @@ A curated list of amazingly awesome hardware description language projects.
    * CIRCT
       * [ksim](https://github.com/pku-liang/ksim) - CIRCT IR to optimized C++ transpiler
       * [arcilator](https://github.com/circt/arc-tests) - Fast and cycle-accurate hardware simulation in CIRCT
+    
+## HDL Libraries
 
+* VHDL
+  - [Open Logic](https://github.com/open-logic/open-logic) - VHDL Standard Library (FIFOs, CDCs, fixed-point math, etc.)
+* System Verilog
+  - [Taxi Transport Library](https://github.com/fpganinja/taxi) - System Verilog standard library
 
 ## Meta HDL and Transpilers
 
