@@ -94,6 +94,7 @@ A curated list of amazingly awesome hardware description language projects.
 * Scala
    - [chisel](https://github.com/freechipsproject/chisel3) - Meta HDL, 2012+
    - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Meta HDL 2012+
+   - [DFHDL](https://dfianthdl.github.io/) - Multi-abstraction Meta HDL, 2021+
 
 * C#
    - [Quokka](https://github.com/EvgenyMuryshkin/qusoc) - C# to low-level RTL translator (Verilog, VHDL) and simulation toolkit examples (gates, components, RISC-V, SoC)
