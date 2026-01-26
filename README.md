@@ -80,6 +80,7 @@ A curated list of amazingly awesome hardware description language projects.
   - [Hdl21](https://github.com/dan-fritchman/Hdl21) - Analog HDL in Python
   - [PyHGL](https://github.com/PyHGL/pyhgl) - Meta HDL, three-state event-driven simulation, 2022+
   - [GateForge](https://github.com/vagran/GateForge) - Meta HDL, 2025+
+  - [PyXHDL](https://github.com/davidel/pyxhdl) - Python Frontend For VHDL And Verilog, 2023+
 
 * Ruby
    - [RHDL](https://github.com/philtomson/RHDL)
