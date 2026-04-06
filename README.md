@@ -86,6 +86,7 @@ A curated list of amazingly awesome hardware description language projects.
    - [RHDL](https://github.com/philtomson/RHDL)
 
 * Rust
+   - [Filament](https://filamentHDL.com) - Fearless Hardware Design
    - [hoodlum](https://github.com/tcr/hoodlum) - Meta HDL, 2016+
    - [kaze](https://github.com/yupferris/kaze) - Meta HDL, 2019+
    - [calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators, 2020+
