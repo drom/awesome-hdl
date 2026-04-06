@@ -133,6 +133,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [autopiper](https://github.com/google/autopiper)
 * [Silice](https://github.com/sylefeb/Silice) - A language for hardcoding algorithms into FPGA hardware
 * [TL-Verilog](https://makerchip.com) - 2015+, Supports "timing-abstract" and "transaction-level design" methodologies; supported by proprietary and open-source tools
+* [AnvilHDL](https://github.com/kisp-nus/anvil) - 2025+, An HDL designed to help avoid common bugs while allowing low-level control through a Rust-like type system
 
 
 ## Hardware Intermediate Representations
@@ -191,7 +192,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [fusesoc](https://github.com/olofk/fusesoc) -  Package manager and a set of build tools for HDL.
 * [bender](https://github.com/pulp-platform/bender) -  Dependency management tool for hardware design projects.
 * [hbs](https://github.com/m-kru/hbs) - A lean dependency management and build system for hardware description projects.
-* [svlint](https://github.com/dalance/svlint) - SystemVerilog linter compliant with IEEE1800-2017. Written in Rust, based on [sv-parser](https://github.com/dalance/sv-parser). 
+* [svlint](https://github.com/dalance/svlint) - SystemVerilog linter compliant with IEEE1800-2017. Written in Rust, based on [sv-parser](https://github.com/dalance/sv-parser).
 
 ## PSS : Portable test and Stimulus Standard
 
