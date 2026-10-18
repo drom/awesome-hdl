@@ -16,8 +16,8 @@ A curated list of amazingly awesome hardware description language projects.
 
    * Verilog
       - [Verilator](https://www.veripool.org/wiki/verilator) Verilog to C++ transpiler
-      - [Icarus Verilog](http://iverilog.icarus.com/) - simulator
-      - [Yosys](http://www.clifford.at/yosys/) - RTL synthesis
+      - [Icarus Verilog](https://github.com/steveicarus/iverilog) - simulator
+      - [Yosys](https://github.com/YosysHQ/yosys) - RTL synthesis
    * VHDL
       * [nvc](https://github.com/nickg/nvc) - GPLv3 VHDL compiler and simulator, IEEE 1076-2002, written in C
       * [GHDL](https://github.com/ghdl/ghdl) - VHDL compiler and simulator, IEEE 1076-2002, written in ADA
@@ -125,7 +125,6 @@ A curated list of amazingly awesome hardware description language projects.
 * [hg_lvl_syn](https://github.com/funningboy/hg_lvl_syn) - 2010, ILP, Force Directed scheduler
 * [abc](https://people.eecs.berkeley.edu/~alanmi/abc/) <2008-?, A System for Sequential Synthesis and Verification
 * [polyphony](https://github.com/ktok07b6/polyphony) - 2015-2017, simple python to hdl
-* [DelayGraph](https://github.com/ni/DelayGraph) - 2016, C#, register assignment algorithms
 * [ahaHLS](https://github.com/dillonhuff/ahaHLS) - 2019, An open source high level synthesis (HLS) tool using LLVM
 * [combinatorylogic/soc](https://github.com/combinatorylogic/soc) - 2019, An experimental System-on-Chip with a custom compiler toolchain.
 * [Quokka](https://github.com/EvgenyMuryshkin/QuokkaEvaluation) - C# to HL RTL translator
@@ -188,7 +187,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [midas](https://github.com/ucb-bar/midas) - FPGA-Accelerated Simulation Framework Automatically Transforming Arbitrary RTL
 * [cocotb](https://github.com/potentialventures/cocotb) - A coroutine based co-simulation library for writing VHDL and Verilog testbenches in Python
 * [osvvm](https://github.com/OSVVM/OsvvmLibraries) -  A VHDL verification framework, verification utility library, verification component library, and a simulator independent scripting flow
-* [uvvm](https://github.com/OSVVM/OsvvmLibraries) - A free and Open Source Methodology and Library for VHDL verification of FPGA and ASIC.
+* [uvvm](https://github.com/UVVM/UVVM) - A free and Open Source Methodology and Library for VHDL verification of FPGA and ASIC.
 * [crave](https://github.com/antmicro/crave) - Constrained random stimuli generation for C++ and SystemC (AntMicro's fork of [crave](https://github.com/agra-uni-bremen/crave))
 
 ## Other Design Automation tools
