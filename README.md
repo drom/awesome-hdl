@@ -169,6 +169,7 @@ A curated list of amazingly awesome hardware description language projects.
 * [netlistsvg](https://github.com/nturley/netlistsvg) - Javascript schematic visualizer
 * [sphinx-hwt](https://github.com/Nic30/sphinx-hwt) - Plugin for sphinx documentation generator which adds schematic into html documentation.
 * [Visual Debug](https://redwoodeda.com/viz) - Custom simulation visualization framework, available within the [Makerchip.com](https://makerchip.com) IDE.
+* [wtf](https://github.com/xtrollyj00/wtf) - Terminal waveform viewer for VCD, FST and GHW with Vim keys, AXI, SPI and UART decoding, and an MCP server for AI agents. Written in Rust.
 
 
 ## HDL parsers
