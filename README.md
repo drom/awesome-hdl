@@ -9,6 +9,7 @@ A curated list of amazingly awesome hardware description language projects.
 
 * Verilog [IEEE Std 1364-2001](https://inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf), [Quick Ref Guide](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf), [SystemVerilog 3.1a](http://www.ece.uah.edu/~gaede/cpe526/SystemVerilog_3.1a.pdf), [Synthesizing SystemVerilog Busting the Myth that SystemVerilog is only for Verification](http://sutherland-hdl.com/papers/2013-SNUG-SV_Synthesizable-SystemVerilog_paper.pdf)
 * VHDL standards [IEEE Std 1076-2000](http://edg.uchicago.edu/~tang/VHDLref.pdf)
+* VHDL course [Introduction to Digital Design Using VHDL](https://www.youtube.com/playlist?list=PLf6PA61YyUO8) - free 25-video lecture series with hands-on exercises for the Basys 3 FPGA board ([course materials](https://github.com/willijar/LearnVHDL))
 * SystemC standards [IEEE Std 1666-2011](http://paginas.fe.up.pt/~ee07166/lib/exe/fetch.php?media=1666-2011.pdf)
 
 
